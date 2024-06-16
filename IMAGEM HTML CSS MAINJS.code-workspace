@@ -1,8 +1,12 @@
 {
 	"folders": [
 		{
-			"path": "IMAGEM"
+			"path": "../../EVERTONLR HTML CSS JAVASCRIPT/IMAGEM"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"Isso"
+		]
+	}
 }
